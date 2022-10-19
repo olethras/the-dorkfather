@@ -14,7 +14,7 @@
 
 Finding data resources can become a time consuming task that's why, most of the time, I end up using Google Dorks to limit my search results and make them more 'targeted' to what I am actually trying to find.
 
-This totally makes the job easier, but yet again even simple Google Dorks might not be enough sometimes to find what I am looking for - so I end up crafting even more detailed dorks, thus losing more time doing research rather than actually acquiring data. 
+This totally makes the job easier, but yet again even simple Google Dorks might not be enough to find what I am looking for - so I end up crafting even more detailed dorks, thus losing more time doing research rather than actually acquiring data. 
 
 To encounter this I created a tool that can help me craft multiple detailed google dorks really fast based on keywords and modules that aim to return the results that I'm truly looking for, The Dorkfather.
 

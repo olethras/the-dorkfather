@@ -22,9 +22,9 @@ To encounter this I created a tool that can help me craft multiple detailed goog
 
 The Dorkfather uses modules, you can think of modules as 'what you are actually looking for' - for example, if I am looking for datasets containing information (Spreadsheets, databases, csv files, etc.), I'm going to use the 'dataset' module.
 
-Modules are great because you don't have to specify what you are looking for in the keywords, you just parse the module you want to use in your dorks and The Dorkfather takes care of everything.
+Modules are great because you don't have to 'explain' what you are looking for using the keywords, you just specify the module you want to use in your dorks and The Dorkfather takes care of everything.
 
-Keywords are used to specify 'what type of information you want your results to contain' - so let's say you are looking for datasets containing 'passwords' information, the command for The Dorkfather would look like:
+Keywords are used to specify 'what type of information you want your results to contain' - for datasets containing 'passwords' information, the command in The Dorkfather would look like this:
 
 ```bash
 python dorkfather.py 1 passwords
